@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+button {
+  all: unset;
+}
+img {
+  width: 100%;
+}
+.bold {
+  font-weight: bold;
+}
+#root {
+  width: 100%;
+  height: 100%;
+}
